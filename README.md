@@ -4,7 +4,7 @@ So, in my OOP class (Java based), I've been provided this code
     
     public class Main {
     	public Main() {
-    		Author author1 = new Author("James Gosling", "Creator of the Java programming language.");
+    	    Author author1 = new Author("James Gosling", "Creator of the Java programming language.");
     	    Author author2 = new Author("Robert C. Martin", "Known for his works on software craftsmanship.");
     	
     	    Book book1 = new Book("Java Programming", "123456789", author1);
