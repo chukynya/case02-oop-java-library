@@ -1,4 +1,4 @@
-So, in my OOP class (Java based), I've been provided this code
+So, in my OOP campus session (Java Object Oriented Programming), I've been provided this code
 
     package exercise_library_01;    // java project name: exercise_library_01
     
