@@ -1,7 +1,6 @@
-So, in my OOP class, I've been provided this code
-
-/* Main.java:
-    package exercise_library_01;
+So, in my OOP class (Java based), I've been provided this code
+    
+    package exercise_library_01;    // java project name: exercise_library_01
     
     public class Main {
     	public Main() {
@@ -34,7 +33,6 @@ So, in my OOP class, I've been provided this code
     		new Main();
     	}
     }
-*/
 
 I need to complete the code without changing any Main.java,
 
