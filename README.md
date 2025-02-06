@@ -1,5 +1,5 @@
 So, in my OOP class (Java based), I've been provided this code
-    
+
     package exercise_library_01;    // java project name: exercise_library_01
     
     public class Main {
@@ -34,6 +34,37 @@ So, in my OOP class (Java based), I've been provided this code
     	}
     }
 
+Expected output:
+```
+Book added to library: Java Programming
+Book added to library: Clean Code
+Alice borrowed: Java Programming
+Alice borrowed: Clean Code
+Alice's Borrowed Books:
+Title: Java Programming
+ISBN: 123456789
+Author: James Gosling
+Biography: Creator of the Java programming language.
+------------------------
+Title: Clean Code
+ISBN: 987654321
+Author: Robert C. Martin
+Biography: Known for his works on software craftsmanship.
+------------------------
+Alice returned: Java Programming
+Alice's Borrowed Books:
+Title: Clean Code
+ISBN: 987654321
+Author: Robert C. Martin
+Biography: Known for his works on software craftsmanship.
+------------------------
+Books in Library:
+Title: Java Programming
+ISBN: 123456789
+Author: James Gosling
+Biography: Creator of the Java programming language.
+------------------------
+```
 I need to complete the code without changing any Main.java,
 
 So this is my solution:
