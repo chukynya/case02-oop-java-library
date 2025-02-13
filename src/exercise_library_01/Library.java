@@ -1,12 +1,12 @@
 package exercise_library_01;
 
-import java.util.HashSet;
+import java.util.ArrayList;
 
 public class Library {
-	private HashSet<Book> books;
+	private ArrayList<Book> books;
 	
 	public Library() {
-		this.books = new HashSet<Book>();
+		this.books = new ArrayList<Book>();
 	}
 	
 	public boolean addBook(Book book) {
